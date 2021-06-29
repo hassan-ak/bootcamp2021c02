@@ -10,3 +10,8 @@ Reading Material:
 - [Top Use Cases and Benefits of Stablecoins](https://medium.com/stably-blog/top-use-cases-and-benefits-of-stablecoins-4f1ceab57d00)
 - [How To Use DAI Stablecoin: Beginner’s Guide (2021)](https://decrypt.co/resources/dai-explained-guide-ethereum-stablecoin)
 
+Class 2 Videos: Programmable Money
+- [English on YouTube](https://www.youtube.com/watch?v=-WQ2DHpeaFs&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159569309457376)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=CJNtss-KKxI&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2263454747122636)
