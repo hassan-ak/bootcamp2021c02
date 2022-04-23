@@ -1,6 +1,13 @@
-# bootcamp2021c02 - Programmable Money for the API Economy: Stable Coin DAI
+# bootcamp2021c02 - The API and Token Economy - Programmable Money for the API Economy: Stable Coin DAI - Programmable Money
 
 ## Programmable Money
+- Programmable money
+- DAI and its importance
+- Ethereum
+- Dapps
+- Wallets and its components
+- Tokens
+- DAI lab
 
 [Programmable Money Presentation for Class](https://docs.google.com/presentation/d/1Tg6Y5aqqavTW5iQP6KfkXrUDSU0rTXvPQk3xNVmhEUo/edit)
 
